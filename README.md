@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Affazson
-- 👀 I’m intially interested in learning the basics of code. Eventually I would like to learn Java and Phyton.
+- 👀 I’m intially interested in learning the basics of code. Eventually I would like to learn Javascript and Python.
 - 🌱 I’m currently learning how to code with '100 days of code with Ali Aljumaili'.
 - 📫 You can reach me via any social media channel with the same nickname 'Affazson'. (Add me on LOL if you play on EUW)
